@@ -1,0 +1,54 @@
+﻿<div class="container" ng-cloak>
+    <h1 class="text-center">{{project.projectName}}</h1>
+    <div>
+        <button class="btn btn-show-hide" ng-show="showHeaderTable" ng-click="showHeaderTable = !showHeaderTable">Hide</button>
+        <button class="btn btn-show-hide" ng-show="!showHeaderTable" ng-click="showHeaderTable = !showHeaderTable">Show</button>
+    </div>
+    <table class="table table-striped table-hover" ng-show="showHeaderTable">
+        <thead>
+        <tr>
+            <td>Project manager</td>
+            <td>Description</td>
+            <td>Start date</td>
+            <td>Last upload date</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>{{project.projectManager}}</td>
+            <td>{{project.description}}</td>
+            <td>{{project.startDate}}</td>
+            <td>{{project.lastUploadedDate}}</td>
+        </tr>
+        </tbody>
+    </table>
+    <h1 class="text-center" ng-show="analysismetadata">Simulations</h1>
+    <form>
+        <input class="btn btn-primary" type="file" ng-file-select="onFileSelect($files)" multiple>
+    </form>
+    
+    <table class="table table-striped table-hover" ng-show="showDataTable">
+        <thead>
+            <tr>
+                <td>Subject</td>
+                <td>Simulations</td>
+                <td>Parameters in</td>
+                <td>Parameters out</td>
+                <td>Conclusion</td>
+                <td>Source file</td>
+                <td>Upload date</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="data in analysismetadata" ng-click="selectSimulation(data.idAnalysisMetadata)">
+                <td>{{data.subject}}</td>
+                <td>{{data.numSim}}</td>
+                <td>{{data.numIn}}</td>
+                <td>{{data.numOut}}</td>
+                <td>{{data.conclusion}}</td>
+                <td>{{data.sourceFile}}</td>
+                <td>{{data.uploadDate}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

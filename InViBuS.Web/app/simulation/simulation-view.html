@@ -1,0 +1,12 @@
+﻿<div ng-controller="simulationController">
+    <div class="col-md-12">
+        <meta-data data="analysisData.ParamIn"></meta-data>
+    </div>
+    <div class="col-md-12">
+        <pie-chart class="pies col-md-3" data="pie" index="$index" ng-repeat="pie in analysisData.SA"></pie-chart>
+    </div>
+    <div class="col-md-12">
+        <parallel-coordinates></parallel-coordinates>
+    </div>
+    
+</div>

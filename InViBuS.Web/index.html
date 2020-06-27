@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="InViBuS">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Bootstrap stylesheet -->
+    <link rel="stylesheet" href="vendor/css/bootstrap.min.css" type="text/css" />
+
+    <!-- d3.parcoords stylesheet -->
+    <link rel="stylesheet" href="vendor/css/d3/d3.parcoords.css" type="text/css" />
+
+    <!-- nvd3 stylesheet -->
+    <link rel="stylesheet" href="vendor/css/nvd3/nv.d3.css" type="text/css" />
+
+    <!-- Slickgrid stylesheets -->
+    <link rel="stylesheet" href="vendor/css/slickgrid/slick.grid.css" type="text/css">
+    <link rel="stylesheet" href="vendor/css/slickgrid/slick.pager.css" type="text/css" />
+    <link rel="stylesheet" href="vendor/css/slickgrid/slick-default-theme.css" />
+
+    <!-- Custom stylesheets -->
+    <link rel="stylesheet" href="Content/css/moe.css" type="text/css" />
+
+
+
+    <title ng-bind="'MOE - ' + ($state.current.data.pageTitle)"></title>
+</head>
+<body ng-controller="navigationController">
+
+    <!-- Navigation bar -->
+    <div class="container-fluid">
+        <nav class="navbar moe" role="navigation">
+            <div class="navbar-header">
+                <a rel="home" href="#">
+                    <img class="navbar-brand moe" src="Content/images/MOE_logo_u_payoff.png" alt="" />
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse">
+                <ol class="nav navbar-nav">
+                    <li><a ui-sref="home" ng-show="user.isAuthenticated" class="btn btn-success align-middle">Home</a></li>
+                    <li><a ui-sref="projects" ng-show="user.isAuthenticated" class="btn btn-success align-middle">Projects</a></li>
+                </ol>
+                <ul class="nav navbar-nav navbar-right">
+                    <li ng-if="!user.isAuthenticated"><a ui-sref="login" class="btn btn-success align-middle">Login</a></li>
+                    <li ng-if="user.isAuthenticated"><a ui-sref="logout" class="btn btn-success align-middle">Logout</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Main container -->
+    <div class="container-fluid">
+        <div ui-view></div>
+    </div>
+
+    <!-- jQuery scripts-->
+    <script src="vendor/scripts/jquery-1.9.1.min.js"></script>
+    <script src="vendor/scripts/jquery.event.drag.js"></script>
+
+    <!-- Angularjs scripts -->
+    <!--<script src="vendor/scripts/angular.min.js"></script>-->
+    <script src="vendor/scripts/angular.js"></script>
+    <script src="vendor/scripts/angular-resource.min.js"></script>
+
+    <!-- Angularjs extension scripts -->
+    <!--<script src="vendor/scripts/angular-ui/angular-ui-router.min.js"></script>-->
+    <script src="vendor/scripts/angular-ui/angular-ui-router.js"></script>
+    <!--<script src="vendor/scripts/ngStorage.min.js"></script>-->
+<script src="vendor/scripts/ngStorage.js"></script>
+<script src="vendor/scripts/angu-fixed-header-table.js"></script>
+    <!--<script src="vendor/scripts/angular-translate/angular-translate.min.js"></script>-->
+    <script src="vendor/scripts/angular-translate/angular-translate.js"></script>
+
+    <!-- D3 scripts -->
+    <!--<script src="vendor/scripts/d3/d3.min.js"></script>-->
+    <script src="vendor/scripts/d3/d3.js"></script>
+    <script src="vendor/scripts/d3/d3.parcoords.js"></script>
+    <script src="vendor/scripts/nvd3/nv.d3.js"></script>
+    <!--<script src="vendor/scripts/nvd3/nv.d3.min.js"></script>-->
+    <!-- Slickgrid -->
+    <script src="vendor/scripts/SlickGrid/divgrid.js"></script>
+    <script src="vendor/scripts/SlickGrid/slick.core.js"></script>
+    <script src="vendor/scripts/SlickGrid/slick.grid.js"></script>
+    <script src="vendor/scripts/SlickGrid/Controls/slick.pager.js"></script>
+    <script src="vendor/scripts/SlickGrid/slick.dataview.js"></script>
+
+    <!-- Custom scripts -->
+    <script src="app/InViBuS.js"></script>
+    <script src="app/login/loginController.js"></script>
+    <script src="app/logout/logoutController.js"></script>
+    <script src="app/user/userController.js"></script>
+    <script src="app/navigation/navigationController.js"></script>
+    <script src="app/user/userService.js"></script>
+    <script src="app/projectList/projectListController.js"></script>
+    <script src="app/projectList/projectListService.js"></script>
+    <script src="app/project/projectController.js"></script>
+    <script src="app/project/projectService.js"></script>
+    <script src="app/simulation/simulationController.js"></script>
+    <script src="app/simulation/simulationsService.js"></script>
+    <script src="app/fileReader/fileReaderFactory.js"></script>
+    <script src="app/fileReader/fileSelectDirective.js"></script>
+    <script src="app/analysisMetadata/analysisMetadataService.js"></script>
+    <script src="app/visualizations/parallelCoordinatePlotDirective.js"></script>
+    <script src="app/visualizations/pieChartDirective.js"></script>
+    <script src="app/visualizations/metaDataDirective.js"></script>
+</body>
+</html>

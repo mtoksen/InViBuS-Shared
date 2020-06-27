@@ -1,0 +1,855 @@
+{
+  "ParamIn": [
+    {
+      "Bundle": "",
+      "Parameter": "Varmekap.",
+      "Unit": "Wh/K m ",
+      "Category": "Quality",
+      "_dist1": "Steps",
+      "_dist2": "40",
+      "_dist3": "60",
+      "_dist4": "1"
+    },
+    {
+      "Bundle": "",
+      "Parameter": "g. windows",
+      "Unit": "-",
+      "Category": "Quality",
+      "_dist1": "Uniform",
+      "_dist2": "0.35",
+      "_dist3": "0.5",
+      "_dist4": "2"
+    },
+    {
+      "Bundle": "",
+      "Parameter": "Vent. night",
+      "Unit": "l/s m ",
+      "Category": "Form and function",
+      "_dist1": "Uniform",
+      "_dist2": "0.3",
+      "_dist3": "0.9",
+      "_dist4": "2"
+    },
+    {
+      "Bundle": "",
+      "Parameter": "W-F. NE",
+      "Unit": "",
+      "Category": "",
+      "_dist1": "Uniform",
+      "_dist2": "5",
+      "_dist3": "15",
+      "_dist4": "2"
+    },
+    {
+      "Bundle": "",
+      "Parameter": "W-F. SE",
+      "Unit": "",
+      "Category": "",
+      "_dist1": "Uniform",
+      "_dist2": "10",
+      "_dist3": "30",
+      "_dist4": "2"
+    },
+    {
+      "Bundle": "",
+      "Parameter": "W-F. SW",
+      "Unit": "",
+      "Category": "",
+      "_dist1": "Uniform",
+      "_dist2": "5",
+      "_dist3": "15",
+      "_dist4": "2"
+    }
+  ],
+  "ParamOut": [
+    {
+      "Parameter": "h>26 C",
+      "Unit": "h",
+      "Category": "Termisk"
+    },
+    {
+      "Parameter": "h>27 C",
+      "Unit": "h",
+      "Category": "Termisk"
+    },
+    {
+      "Parameter": "Energibehov 2015",
+      "Unit": "kWh/m ",
+      "Category": "Energiforbrug"
+    }
+  ],
+  "AnalysisIn": [
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.425",
+      "Vent, night": "0.6",
+      "W-F, NE": "10",
+      "W-F, SE": "20",
+      "W-F, SW": "10"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.4625",
+      "Vent, night": "0.45",
+      "W-F, NE": "12.5",
+      "W-F, SE": "15",
+      "W-F, SW": "12.5"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.3875",
+      "Vent, night": "0.75",
+      "W-F, NE": "7.5",
+      "W-F, SE": "25",
+      "W-F, SW": "7.5"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.44375",
+      "Vent, night": "0.825",
+      "W-F, NE": "13.75",
+      "W-F, SE": "22.5",
+      "W-F, SW": "6.25"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.36875",
+      "Vent, night": "0.525",
+      "W-F, NE": "8.75",
+      "W-F, SE": "12.5",
+      "W-F, SW": "11.25"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.40625",
+      "Vent, night": "0.675",
+      "W-F, NE": "6.25",
+      "W-F, SE": "27.5",
+      "W-F, SW": "13.75"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.48125",
+      "Vent, night": "0.375",
+      "W-F, NE": "11.25",
+      "W-F, SE": "17.5",
+      "W-F, SW": "8.75"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.490625",
+      "Vent, night": "0.7125",
+      "W-F, NE": "8.125",
+      "W-F, SE": "13.75",
+      "W-F, SW": "5.625"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.415625",
+      "Vent, night": "0.4125",
+      "W-F, NE": "13.125",
+      "W-F, SE": "23.75",
+      "W-F, SW": "10.625"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.378125",
+      "Vent, night": "0.8625",
+      "W-F, NE": "10.625",
+      "W-F, SE": "18.75",
+      "W-F, SW": "13.125"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.453125",
+      "Vent, night": "0.5625",
+      "W-F, NE": "5.625",
+      "W-F, SE": "28.75",
+      "W-F, SW": "8.125"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.396875",
+      "Vent, night": "0.4875",
+      "W-F, NE": "11.875",
+      "W-F, SE": "21.25",
+      "W-F, SW": "6.875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.471875",
+      "Vent, night": "0.7875",
+      "W-F, NE": "6.875",
+      "W-F, SE": "11.25",
+      "W-F, SW": "11.875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.434375",
+      "Vent, night": "0.3375",
+      "W-F, NE": "9.375",
+      "W-F, SE": "26.25",
+      "W-F, SW": "14.375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.359375",
+      "Vent, night": "0.6375",
+      "W-F, NE": "14.375",
+      "W-F, SE": "16.25",
+      "W-F, SW": "9.375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.4296875",
+      "Vent, night": "0.54375",
+      "W-F, NE": "7.1875",
+      "W-F, SE": "19.375",
+      "W-F, SW": "7.8125"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.3546875",
+      "Vent, night": "0.84375",
+      "W-F, NE": "12.1875",
+      "W-F, SE": "29.375",
+      "W-F, SW": "12.8125"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.3921875",
+      "Vent, night": "0.39375",
+      "W-F, NE": "14.6875",
+      "W-F, SE": "14.375",
+      "W-F, SW": "10.3125"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.4671875",
+      "Vent, night": "0.69375",
+      "W-F, NE": "9.6875",
+      "W-F, SE": "24.375",
+      "W-F, SW": "5.3125"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.3734375",
+      "Vent, night": "0.61875",
+      "W-F, NE": "13.4375",
+      "W-F, SE": "26.875",
+      "W-F, SW": "9.0625"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.4484375",
+      "Vent, night": "0.31875",
+      "W-F, NE": "8.4375",
+      "W-F, SE": "16.875",
+      "W-F, SW": "14.0625"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.4859375",
+      "Vent, night": "0.76875",
+      "W-F, NE": "5.9375",
+      "W-F, SE": "21.875",
+      "W-F, SW": "11.5625"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.4109375",
+      "Vent, night": "0.46875",
+      "W-F, NE": "10.9375",
+      "W-F, SE": "11.875",
+      "W-F, SW": "6.5625"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.4203125",
+      "Vent, night": "0.80625",
+      "W-F, NE": "9.0625",
+      "W-F, SE": "15.625",
+      "W-F, SW": "8.4375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.4953125",
+      "Vent, night": "0.50625",
+      "W-F, NE": "14.0625",
+      "W-F, SE": "25.625",
+      "W-F, SW": "13.4375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.4578125",
+      "Vent, night": "0.65625",
+      "W-F, NE": "11.5625",
+      "W-F, SE": "10.625",
+      "W-F, SW": "10.9375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.3828125",
+      "Vent, night": "0.35625",
+      "W-F, NE": "6.5625",
+      "W-F, SE": "20.625",
+      "W-F, SW": "5.9375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.4765625",
+      "Vent, night": "0.43125",
+      "W-F, NE": "10.3125",
+      "W-F, SE": "28.125",
+      "W-F, SW": "9.6875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.4015625",
+      "Vent, night": "0.73125",
+      "W-F, NE": "5.3125",
+      "W-F, SE": "18.125",
+      "W-F, SW": "14.6875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.3640625",
+      "Vent, night": "0.58125",
+      "W-F, NE": "7.8125",
+      "W-F, SE": "23.125",
+      "W-F, SW": "12.1875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.4390625",
+      "Vent, night": "0.88125",
+      "W-F, NE": "12.8125",
+      "W-F, SE": "13.125",
+      "W-F, SW": "7.1875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.46953125",
+      "Vent, night": "0.871875",
+      "W-F, NE": "11.71875",
+      "W-F, SE": "25.9375",
+      "W-F, SW": "14.21875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.39453125",
+      "Vent, night": "0.571875",
+      "W-F, NE": "6.71875",
+      "W-F, SE": "15.9375",
+      "W-F, SW": "9.21875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.35703125",
+      "Vent, night": "0.721875",
+      "W-F, NE": "9.21875",
+      "W-F, SE": "20.9375",
+      "W-F, SW": "6.71875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.43203125",
+      "Vent, night": "0.421875",
+      "W-F, NE": "14.21875",
+      "W-F, SE": "10.9375",
+      "W-F, SW": "11.71875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.41328125",
+      "Vent, night": "0.346875",
+      "W-F, NE": "7.96875",
+      "W-F, SE": "18.4375",
+      "W-F, SW": "12.96875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.48828125",
+      "Vent, night": "0.646875",
+      "W-F, NE": "12.96875",
+      "W-F, SE": "28.4375",
+      "W-F, SW": "7.96875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.45078125",
+      "Vent, night": "0.496875",
+      "W-F, NE": "10.46875",
+      "W-F, SE": "13.4375",
+      "W-F, SW": "5.46875"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.37578125",
+      "Vent, night": "0.796875",
+      "W-F, NE": "5.46875",
+      "W-F, SE": "23.4375",
+      "W-F, SW": "10.46875"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.38515625",
+      "Vent, night": "0.459375",
+      "W-F, NE": "14.84375",
+      "W-F, SE": "29.6875",
+      "W-F, SW": "14.84375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.46015625",
+      "Vent, night": "0.759375",
+      "W-F, NE": "9.84375",
+      "W-F, SE": "19.6875",
+      "W-F, SW": "9.84375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.49765625",
+      "Vent, night": "0.309375",
+      "W-F, NE": "7.34375",
+      "W-F, SE": "24.6875",
+      "W-F, SW": "7.34375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.42265625",
+      "Vent, night": "0.609375",
+      "W-F, NE": "12.34375",
+      "W-F, SE": "14.6875",
+      "W-F, SW": "12.34375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.44140625",
+      "Vent, night": "0.684375",
+      "W-F, NE": "6.09375",
+      "W-F, SE": "17.1875",
+      "W-F, SW": "13.59375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.36640625",
+      "Vent, night": "0.384375",
+      "W-F, NE": "11.09375",
+      "W-F, SE": "27.1875",
+      "W-F, SW": "8.59375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.40390625",
+      "Vent, night": "0.834375",
+      "W-F, NE": "13.59375",
+      "W-F, SE": "12.1875",
+      "W-F, SW": "6.09375"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.47890625",
+      "Vent, night": "0.534375",
+      "W-F, NE": "8.59375",
+      "W-F, SE": "22.1875",
+      "W-F, SW": "11.09375"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.38984375",
+      "Vent, night": "0.665625",
+      "W-F, NE": "10.78125",
+      "W-F, SE": "24.0625",
+      "W-F, SW": "11.40625"
+    },
+    {
+      "Varmekap.": "60",
+      "g, windows": "0.46484375",
+      "Vent, night": "0.365625",
+      "W-F, NE": "5.78125",
+      "W-F, SE": "14.0625",
+      "W-F, SW": "6.40625"
+    },
+    {
+      "Varmekap.": "40",
+      "g, windows": "0.42734375",
+      "Vent, night": "0.815625",
+      "W-F, NE": "8.28125",
+      "W-F, SE": "29.0625",
+      "W-F, SW": "8.90625"
+    }
+  ],
+  "AnalysisOut": [
+    {
+      "h>26 C": "41",
+      "h>27 C": "7",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "91",
+      "h>27 C": "37",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "31",
+      "h>27 C": "5",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "81",
+      "h>27 C": "31",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "33",
+      "h>27 C": "5",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "71",
+      "h>27 C": "24",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "63",
+      "h>27 C": "18",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "100",
+      "h>27 C": "38",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "44",
+      "h>27 C": "8",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "66",
+      "h>27 C": "16",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "50",
+      "h>27 C": "11",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "73",
+      "h>27 C": "23",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "50",
+      "h>27 C": "9",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "83",
+      "h>27 C": "32",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "27",
+      "h>27 C": "3",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "80",
+      "h>27 C": "30",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "22",
+      "h>27 C": "2",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "73",
+      "h>27 C": "23",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "51",
+      "h>27 C": "11",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "67",
+      "h>27 C": "18",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "53",
+      "h>27 C": "13",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "97",
+      "h>27 C": "37",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "41",
+      "h>27 C": "7",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "72",
+      "h>27 C": "25",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "64",
+      "h>27 C": "18",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "88",
+      "h>27 C": "35",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "37",
+      "h>27 C": "6",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "101",
+      "h>27 C": "39",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "35",
+      "h>27 C": "5",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "65",
+      "h>27 C": "16",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "40",
+      "h>27 C": "5",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "90",
+      "h>27 C": "35",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "36",
+      "h>27 C": "5",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "63",
+      "h>27 C": "13",
+      "Energibehov 2015": "31.3",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "49",
+      "h>27 C": "10",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "78",
+      "h>27 C": "26",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "55",
+      "h>27 C": "13",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "88",
+      "h>27 C": "35",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "26",
+      "h>27 C": "3",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "69",
+      "h>27 C": "22",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "46",
+      "h>27 C": "8",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "115",
+      "h>27 C": "45",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "41",
+      "h>27 C": "7",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "82",
+      "h>27 C": "31",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "33",
+      "h>27 C": "5",
+      "Energibehov 2015": "30.6",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "69",
+      "h>27 C": "23",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "57",
+      "h>27 C": "13",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "69",
+      "h>27 C": "22",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    },
+    {
+      "h>26 C": "60",
+      "h>27 C": "15",
+      "Energibehov 2015": "30.5",
+      "Glass-Floor": "120"
+    },
+    {
+      "h>26 C": "73",
+      "h>27 C": "27",
+      "Energibehov 2015": "31.2",
+      "Glass-Floor": "80"
+    }
+  ],
+  "SA": [
+    {
+      "Output": "Energibehov",
+      "Values": [
+        {
+          "W-F. SE": "60"
+        },
+        {
+          "Vent. night": "20"
+        },
+        {
+          "W-F. SW": "10"
+        },
+        {
+          "g. windows": "10"
+        }
+      ]
+    },
+    {
+      "Output": "h>26 C.",
+      "Values": [
+        {
+          "W-F. SE": "50"
+        },
+        {
+          "Vent. night": "25"
+        },
+        {
+          "W-F. SW": "15"
+        },
+        {
+          "g. windows": "10"
+        }
+      ]
+    },
+    {
+      "Output": "h>27 C.",
+      "Values": [
+        {
+          "W-F. SE": "25"
+        },
+        {
+          "Vent. night": "45"
+        },
+        {
+          "W-F. SW": "18"
+        },
+        {
+          "g. windows": "12"
+        }
+      ]
+    },
+    {
+      "Output": "*Glass-Floor",
+      "Values": [
+        {
+          "W-F. SE": "80"
+        },
+        {
+          "Vent. night": "10"
+        },
+        {
+          "W-F. SW": "5"
+        },
+        {
+          "g. windows": "5"
+        }
+      ]
+    }
+  ]
+}

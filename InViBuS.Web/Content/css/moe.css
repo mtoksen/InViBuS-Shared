@@ -1,0 +1,242 @@
+﻿
+/* Customization */
+body, hmtl {
+    font-size: 12px;
+}
+
+.navbar.moe {
+    background-color: rgb(172, 196, 93);
+}
+
+    .navbar.moe ol.navbar-nav a.btn,
+    .navbar.moe ul.navbar-nav a.btn {
+        line-height: 30px;
+    }
+
+.navbar-brand.moe {
+    background-color: #c1c3c6;
+    background-color: rgba(193, 195, 198, 0);
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin-heading {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.form-signin-username,
+.form-signin-password {
+    margin-top: 1px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right center;
+    cursor: auto;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDhss3LcOZQAAAU5JREFUOMvdkzFLA0EQhd/bO7iIYmklaCUopLAQA6KNaawt9BeIgnUwLHPJRchfEBR7CyGWgiDY2SlIQBT/gDaCoGDudiy8SLwkBiwz1c7y+GZ25i0wnFEqlSZFZKGdi8iiiOR7aU32QkR2c7ncPcljAARAkgckb8IwrGf1fg/oJ8lRAHkR2VDVmOQ8AKjqY1bMHgCGYXhFchnAg6omJGcBXEZRtNoXYK2dMsaMt1qtD9/3p40x5yS9tHICYF1Vn0mOxXH8Uq/Xb389wff9PQDbQRB0t/QNOiPZ1h4B2MoO0fxnYz8dOOcOVbWhqq8kJzzPa3RAXZIkawCenHMjJN/+GiIqlcoFgKKq3pEMAMwAuCa5VK1W3SAfbAIopum+cy5KzwXn3M5AI6XVYlVt1mq1U8/zTlS1CeC9j2+6o1wuz1lrVzpWXLDWTg3pz/0CQnd2Jos49xUAAAAASUVORK5CYII=);
+}
+
+.form-signin,
+.form-control {
+    position: relative;
+    height: auto;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #555;
+    background-color: #FFF;
+    background-image: none;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset;
+    transition: border-color 0.15s ease-in-out 0, box-shadow 0.15s ease-in-out 0;
+}
+
+.form-signin-submit {
+    margin-top: 5px;
+    -moz-box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+    box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+    background-color: #ACC45D;
+    -webkit-border-top-left-radius: 25px;
+    -moz-border-radius-topleft: 25px;
+    border-top-left-radius: 25px;
+    -webkit-border-top-right-radius: 0px;
+    -moz-border-radius-topright: 0px;
+    border-top-right-radius: 0px;
+    -webkit-border-bottom-right-radius: 25px;
+    -moz-border-radius-bottomright: 25px;
+    border-bottom-right-radius: 25px;
+    -webkit-border-bottom-left-radius: 0px;
+    -moz-border-radius-bottomleft: 0px;
+    border-bottom-left-radius: 0px;
+    text-indent: 0px;
+    border: 1px solid #83c41a;
+    display: inline-block;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    height: 40px;
+    line-height: 40px;
+    width: 100px;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 1px 1px 1px #86ae47;
+}
+
+    .form-signin-submit:hover {
+        background-color: #ACC45D;
+    }
+
+    .form-signin-submit:active {
+        position: relative;
+        top: 1px;
+    }
+
+.container-fluid {
+    padding: 0;
+}
+
+[ui-sref],
+[ng-click] {
+    cursor: pointer;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+
+.table-hover tbody tr:hover td {
+    background-color: #ACC45D;
+    color: black;
+}
+
+.btn-show-hide {
+    background-color: #ACC45D;
+}
+
+.btn-edit {
+    height: auto;
+    width: auto;
+    padding: 2px 10px;
+}
+
+/* Custom style for graph and chart directives */
+svg {
+    font: 10px sans-serif;
+}
+
+.background path {
+    fill: none;
+    stroke-opacity: 0.2;
+    stroke: #cccccc;
+}
+
+.foreground path {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+    shape-rendering: optimizeSpeed;
+}
+
+.brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+}
+
+.axis line,
+.axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font: 14px sans-serif;
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+    font-weight: normal;
+    cursor: move;
+}
+
+.parcoords text.label {
+    top: -50px;
+}
+
+.parallel-coordinate-plot-table {
+    margin: 0 auto;
+    height: 20%;
+}
+
+pie-chart {
+    
+}
+
+div.pieChartContainer {
+    display: inline-block;
+    width: auto;
+}
+
+    div.pieChartContainer #pieHead {
+        text-align: center;
+    }
+
+.inputTable {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+/* Slickgrid style */
+
+.grid, .pager {
+    position: relative;
+    width: 100%;
+}
+
+.grid {
+    top: 240px;
+    height: 280px;
+}
+
+.pager {
+    top: 220px;
+    height: 20px;
+}
+
+.slick-row:hover {
+    font-weight: bold;
+    color: #069;
+}
+
+.slick-header-column {
+    height: 20px !important; /* Overrides the default height using the !important tag */
+    font-size: 15px !important;
+    font-weight: bolder;
+}
+
+
+.grid, .grid div { /* Fix the columns not aligning with body */
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}

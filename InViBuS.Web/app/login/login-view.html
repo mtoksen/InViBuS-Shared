@@ -1,0 +1,10 @@
+﻿<div class="text-center" ng-show="!user.isAuthenticated">
+    <form class="form-signin" ng-submit="submit()">
+        <div class="h2 form-signin-heading">Please login</div>
+        <input class="form-control form-signin-username" type="text" name="_username" autofocus=""
+               placeholder="Username" autocomplete="off" ng-model="username" />
+        <input class="form-control form-signin-password" type="password" name="_password"
+               placeholder="Password" autocomplete="off" ng-model="password" />
+        <button type="submit" href="#" class="form-signin-submit">Submit</button>
+    </form>
+</div>

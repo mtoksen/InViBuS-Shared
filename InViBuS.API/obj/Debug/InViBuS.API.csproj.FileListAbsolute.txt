@@ -1,0 +1,481 @@
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\InViBuS.API.dll.config
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\InViBuS.API.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\InViBuS.API.pdb
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Antlr3.Runtime.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\EntityFramework.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Newtonsoft.Json.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Helpers.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Mvc.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Optimization.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Razor.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.WebPages.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\WebGrease.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Antlr3.Runtime.pdb
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\EntityFramework.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Newtonsoft.Json.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Helpers.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Mvc.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Optimization.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Razor.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.WebPages.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.pdb
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Spatial.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.OData.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Spatial.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Http.OData.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\de\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\es\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\fr\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\it\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ja\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ko\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\ru\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\System.Web.Cors.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll.config
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.pdb
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Cors.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\WebGrease.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.pdb
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.dll
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.pdb
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Done.resources
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.GenerateResource.Cache
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Donev2.resources
+C:\Users\Michael\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csprojResolveAssemblyReference.cache
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll.config
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.pdb
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Owin.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Cors.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\WebGrease.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.pdb
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Done.resources
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Donev2.resources
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.GenerateResource.Cache
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.dll
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.pdb
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll.config
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.pdb
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Owin.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Cors.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\WebGrease.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.pdb
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csprojResolveAssemblyReference.cache
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Done.resources
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Donev2.resources
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.GenerateResource.Cache
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.dll
+C:\Users\TOD\Dropbox\PHD\Bachelorprojekt IKT - Michael\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.pdb
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csprojAssemblyReference.cache
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.CoreCompileInputs.cache
+C:\Users\Michael Oksen\Dropbox\Bachelorprojekt IKT - Michael (1)\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.CopyComplete
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll.config
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\InViBuS.API.pdb
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Owin.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Cors.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\WebGrease.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Antlr3.Runtime.pdb
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.Edm.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Data.OData.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Cors.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\Newtonsoft.Json.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Spatial.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Helpers.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.OData.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.Owin.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Mvc.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Optimization.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.Razor.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\de\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\es\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\fr\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\it\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ja\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ko\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\ru\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csprojAssemblyReference.cache
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Done.resources
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.Migrations.Donev2.resources
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.GenerateResource.cache
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.CoreCompileInputs.cache
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.csproj.CopyComplete
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.dll
+C:\Users\Michael Oksen\Dropbox\Selv\Privat\Bachelorprojekt IKT - Michael (1)\InViBuS\MOE\MOEBuildingDesign\InViBuS\InViBuS.API\obj\Debug\InViBuS.API.pdb

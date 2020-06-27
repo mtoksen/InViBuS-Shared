@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InViBuS.API", "InViBuS.API\InViBuS.API.csproj", "{F4B79210-DAD8-4C54-9773-99C7700E707D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5391F290-33EF-4B64-8A52-67D8301097A5}"
+	ProjectSection(SolutionItems) = preProject
+		Create Database.sql = Create Database.sql
+		FBAB 6-4-50 Valid JSON incl SA data manual.json = FBAB 6-4-50 Valid JSON incl SA data manual.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InViBuS.Web", "InViBuS.Web\InViBuS.Web.csproj", "{2511F85C-6A06-4585-A86C-5B50CF7A150C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B79210-DAD8-4C54-9773-99C7700E707D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B79210-DAD8-4C54-9773-99C7700E707D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B79210-DAD8-4C54-9773-99C7700E707D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B79210-DAD8-4C54-9773-99C7700E707D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2511F85C-6A06-4585-A86C-5B50CF7A150C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2511F85C-6A06-4585-A86C-5B50CF7A150C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2511F85C-6A06-4585-A86C-5B50CF7A150C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2511F85C-6A06-4585-A86C-5B50CF7A150C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB3AD5FD-ED5F-4418-8DEB-3336A2250ED0}
+	EndGlobalSection
+EndGlobal

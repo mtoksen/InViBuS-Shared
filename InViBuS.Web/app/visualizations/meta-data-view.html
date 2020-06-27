@@ -1,0 +1,13 @@
+﻿<table class="inputTable table table-bordered table-striped" fixed-header table-height="200px">
+    <thead>
+    <tr>
+        <th ng-repeat="(key, val) in data[0]" ng-if="key !== 'Bundle' && key !== 'Category'"
+                sorable-header>{{key | translate}}</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr ng-repeat="parVal in data">
+        <td ng-repeat="(key, val) in parVal" ng-if="key !== 'Bundle' && key !== 'Category'">{{parVal[key]}}</td>
+    </tr>
+    </tbody>
+</table>

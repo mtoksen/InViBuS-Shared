@@ -1,0 +1,24 @@
+﻿<div class="container" ng-show="user.isAuthenticated">
+    <button class="btn btn-block btn-success" ng-click="addProject">Add project</button>
+
+    <table class="table table-striped table-hover">
+        <thead>
+        <tr>
+            <th>Project name</th>
+            <th>Project manager username</th>
+            <th>Description</th>
+            <th></th>
+        </tr>
+        </thead>
+
+        <tbody>
+        <tr ng-repeat="project in projectList" ng-click="selectProject(project.idProject)">
+            <td>{{project.projectName}}</td>
+            <td>{{project.projectManager}}</td>
+            <td>{{project.description}}</td>
+            <td><button class="btn btn-link btn-edit" ng-click="editModal">Edit</button></td>
+        </tr>
+        </tbody>
+
+    </table>
+</div>

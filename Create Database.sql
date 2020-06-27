@@ -1,0 +1,2 @@
+IF db_id('InViBuS') IS NULL
+	EXECUTE('CREATE DATABASE InViBuS')
